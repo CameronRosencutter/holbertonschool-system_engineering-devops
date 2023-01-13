@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugo+7
+chmod 777 ls -l index.js
