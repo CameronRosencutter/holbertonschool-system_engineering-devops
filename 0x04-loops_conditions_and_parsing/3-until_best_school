@@ -2,7 +2,7 @@
 #Comments
 
 b=0
-until [$b gt 9]
+until [ $b -gt 9 ]
 do echo 'Best School'
 	((b++))
 done
