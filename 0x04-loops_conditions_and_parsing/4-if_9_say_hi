@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #If 9, then say hi.
 
-i=10
+i=i
 while [ $i -gt 0 ]
 do
 	echo 'Best School'
