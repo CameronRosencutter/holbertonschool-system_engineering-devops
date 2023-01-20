@@ -3,6 +3,7 @@
 
 b=1
 while [ $b -ls 10 ]
-do echo 'Best School'
+do
+	echo 'Best School'
 	((b=b+1))
 done
