@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Here we go...
+
+ps -Af
