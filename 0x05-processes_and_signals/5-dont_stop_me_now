@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #Kill it all.
 
-kill 4700
+kill "$(pgrep -f 4-to_infinity_and_beyond)"
