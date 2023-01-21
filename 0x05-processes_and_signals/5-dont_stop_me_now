@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Kill it all.
+
+kill 4700
