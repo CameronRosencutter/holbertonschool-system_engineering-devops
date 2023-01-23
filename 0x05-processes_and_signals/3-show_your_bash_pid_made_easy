@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#No ps.
+#Show your bash pid  made easy.
 
 pgrep bash -l

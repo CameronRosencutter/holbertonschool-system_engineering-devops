@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 #codes
-# shellcheck disable=SC2009
+#Show your bash pid
 
 ps -auxf | grep bash

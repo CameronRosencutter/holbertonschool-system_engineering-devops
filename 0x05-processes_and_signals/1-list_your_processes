@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#Here we go...
+#list your processes
 
 ps -auxf
